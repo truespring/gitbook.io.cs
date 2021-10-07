@@ -5,6 +5,8 @@ description: 인터넷은 어떻게 동작할까?
 # How the internet Works
 
 > 본 문서는 모질라 공식 사이트를 참고하여 작성했습니다.
+>
+> 링크: [인터넷은 어떻게 동작하는가?](https://developer.mozilla.org/ko/docs/Learn/Common_questions/How_does_the_Internet_work)
 
 ## 요약하면
 
