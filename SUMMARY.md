@@ -1,8 +1,8 @@
 # Table of contents
 
-* [CS 꼬꼬무](README.md)
+* [CS Story](README.md)
 
-## WEB
+## internet
 
 ---
 
