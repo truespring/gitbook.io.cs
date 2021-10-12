@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CS Story](README.md)
+* [💻 CS Story](README.md)
 
 ## internet
 

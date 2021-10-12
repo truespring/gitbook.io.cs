@@ -1,14 +1,15 @@
 ---
 description: 좀 더 성숙한 백엔드 개발자가 되기 위한 로드맵 따라가기
+coverY: 0
 ---
 
-# CS Story
+# 💻 CS Story
 
 > 해당 로드맵 이미지는 devJang님의 깃허브를 참고했습니다.
 >
 > 링크: [devJang 깃허브](https://github.com/devJang/developer-roadmap)
 
-![&#xBC31;&#xC5D4;&#xB4DC; &#xAC1C;&#xBC1C;&#xC790; &#xB85C;&#xB4DC;&#xB9F5;\(devJang&#xB2D8; &#xAE43;&#xD5C8;&#xBE0C; &#xCC38;&#xACE0;\)](.gitbook/assets/image%20%2810%29.png)
+![백엔드 개발자 로드맵(devJang님 깃허브 참고)](<.gitbook/assets/image (10).png>)
 
 {% hint style="info" %}
 로드맵에서 제시하는 모든 것을 학습할 것은 아니지만 check list로 정리하여 공부 및 정리 예정
@@ -43,6 +44,3 @@ description: 좀 더 성숙한 백엔드 개발자가 되기 위한 로드맵 �
 * 입출력 관리
 * POSIX 기초
 * 기본적인 네트워크 개념
-
-
-
