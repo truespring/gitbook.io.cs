@@ -4,7 +4,7 @@
 
 ## internet
 
----
+***
 
-* [How the internet Works](how-the-internet-works.md)
-
+* [How the Internet works](how-the-internet-works.md)
+* [How the Web works](how-the-web-works.md)
